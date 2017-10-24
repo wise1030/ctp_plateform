@@ -1,1 +1,1 @@
-# ctp_plateform
+# ctp_platform
